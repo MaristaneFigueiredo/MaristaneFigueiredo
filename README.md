@@ -52,7 +52,6 @@ Uma das minhas maiores motivações é encontrar soluções concretas por meio d
 
 <strong>Estatísticas do Github::</strong></br>
 </br>
-<p>
-    <img  height="160" src="https://github-readme-stats.vercel.app/api?username=maristanefigueiredo&hide=stars&theme=gotham"/>
+<p>    
     <img  height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maristanefigueiredo&layout=compact&theme=gotham"/>
 </p>
