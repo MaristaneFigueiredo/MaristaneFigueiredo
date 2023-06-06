@@ -1,7 +1,7 @@
 
 <h2 align="center">Software Engineer e Analista de Sistemas</h2>
 
-Olá!, Sou Maristane Figueiredo, mas sinta-se à vontade para me chamar de Maris.:wink:
+Olá! Sou Maristane Figueiredo, mas sinta-se à vontade para me chamar de Maris.:wink:
 
 Uma das minhas maiores motivações é encontrar soluções concretas por meio do desenvolvimento de software.
 
