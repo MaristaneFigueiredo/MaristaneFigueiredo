@@ -1,9 +1,7 @@
 
 <h2 align="center">Software Engineer e Analista de Sistemas</h2>
- 
-Meu nome é Maristane Figueiredo, mas sinta-se à vontade para me chamar de Maris.:wink:
 
-Sou entusiasta na área de software, pois vejo nela uma jornada repleta de possibilidades.
+Olá, sou Maristane Figueiredo, mas sinta-se à vontade para me chamar de Maris.:wink:
 
 Meu primeiro contato com tecnologia aconteceu quando fui desafiada a ministrar aulas sobre as tecnologias da Microsoft no meu primeiro emprego. Foi nesse momento que descobri minha paixão por ensinar e também identifiquei a área que gostaria de seguir.
 
@@ -41,8 +39,7 @@ Uma das minhas maiores motivações é encontrar soluções concretas por meio d
 <ul>
     <li>No momento, estou estudando Tailwind e dedicando 20 minutos diários ao estudo de inglês no Duolingo; </li>
     <li>Meu próximo passo será inteligência artificial; </li>
-    <li>Gosto de projetos sociais. Sou voluntária no Lions Club; </li>
-    <li>Faço zumba, gosto de gente e adoro café.</li>
+    <li>Gosto de projetos sociais. Sou voluntária no Lions Club. </li>    
 </ul>
 
 ## Contato
