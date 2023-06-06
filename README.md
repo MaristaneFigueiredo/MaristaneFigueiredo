@@ -3,8 +3,6 @@
 
 Olá, sou Maristane Figueiredo, mas sinta-se à vontade para me chamar de Maris.:wink:
 
-Meu primeiro contato com tecnologia aconteceu quando fui desafiada a ministrar aulas sobre as tecnologias da Microsoft no meu primeiro emprego. Foi nesse momento que descobri minha paixão por ensinar e também identifiquei a área que gostaria de seguir.
-
 Uma das minhas maiores motivações é encontrar soluções concretas por meio do desenvolvimento de software.
 
 
