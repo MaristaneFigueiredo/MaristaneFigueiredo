@@ -50,7 +50,7 @@ Uma das minhas maiores motivações é encontrar soluções concretas por meio d
     </a>
 </p>
 
-<strong>My Github statics:</strong></br>
+<strong>Estatísticas do Github::</strong></br>
 </br>
 <p>
     <img  height="160" src="https://github-readme-stats.vercel.app/api?username=maristanefigueiredo&hide=stars&theme=gotham"/>
