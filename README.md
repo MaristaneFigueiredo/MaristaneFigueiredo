@@ -10,9 +10,10 @@ Uma das minhas maiores motivações é encontrar soluções concretas por meio d
 ## ✔️ Habilidades Técnicas
 
 - ``Linguagens: Delphi, JavaScript, HTML5, CSS3 e TypeScript``
-- ``Bibliotecas e tecnologias: React.js, styled-components, NodeJS, ORM Prisma, Docker, AWS e Jest.``
+- ``Bibliotecas, Frameworks e tecnologias: React.js, styled-components, NodeJS, Express.js, ORM Prisma, Docker, AWS.``
+- ``Testes: Jest e SuperTest.``
 - ``Banco de dados: MongoDB, PostgreSQL, SQLServer e  Redis``
-- ``Controle de versão: Git``
+- ``Controle de versão: Git, GitHub``
 
 <ul>
 
